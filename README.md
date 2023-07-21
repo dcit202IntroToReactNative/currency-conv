@@ -1,2 +1,4 @@
 # currency-conv
- Currency Converter
+ Currency Converter using ReactNative
+
+ - 10952446 ( SheriffBoaz )
